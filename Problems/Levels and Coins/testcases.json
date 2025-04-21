@@ -1,0 +1,16 @@
+[
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:200,10,999999999", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:200,10,100000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,1999,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,2000,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:100,200,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,200000,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,199999,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,199998,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,199997,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1000,1000,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,1000000,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,999999,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,999997,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1},
+    {"input": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51:1,999998,1000000000", "output": "%%2fd9ea2f-5a44-4e3e-9fee-d87191f0fe51", "subtask": 1}
+]

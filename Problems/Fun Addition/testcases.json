@@ -1,0 +1,8 @@
+[
+    {"input": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2:20000,10,1000000,5", "output": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2", "subtask": 1},
+    {"input": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2:1000,200,1000000,5", "output": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2", "subtask": 1},
+    {"input": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2:1,200000,1000000,200000", "output": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2", "subtask": 1},
+    {"input": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2:1,200000,1000000,5", "output": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2", "subtask": 1},
+    {"input": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2:1,200000,999999,200000", "output": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2", "subtask": 1},
+    {"input": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2:1,199999,999999,1", "output": "%%94a87e3a-39cc-4464-b0f6-c39f815c4dd2", "subtask": 1}
+]

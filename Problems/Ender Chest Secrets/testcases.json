@@ -1,0 +1,23 @@
+[
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:1,1,3", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,100,10,10", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,100,10,1", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,100,10,-10", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,100,10,5", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,100,10,0", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,100,10,-5", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,300,100", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,300,10", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,300,1", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,300,-10", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,100,-100", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,-10", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,10", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,100", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,1000", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,2000", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,3000", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,4000", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,4900", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1},
+    {"input": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28:2,1,5000,5000", "output": "%%6bf58bdf-f933-474a-bd59-2e75d06f1c28", "subtask": 1}
+]
