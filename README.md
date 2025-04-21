@@ -2,7 +2,7 @@
 
 Editorial: in editorial.pdf
 
-Solution/generator/checker/interator code and testcases are all in the Problems folder
+Solution/generator/checker/interactor code and testcases are all in the Problems folder
 
 Grading code:
 ```$ python3 grade.py myCode.cpp C++20 "Base After Base"```
