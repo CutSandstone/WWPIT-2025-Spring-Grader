@@ -1,0 +1,10 @@
+[
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:10", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:1000", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:10000", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:99996", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:99997", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:99998", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:99999", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1},
+    {"input": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4:100000", "output": "%%b6440269-e19f-40a3-86d5-2b53cb8d13f4", "subtask": 1}
+]

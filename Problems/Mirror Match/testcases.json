@@ -1,0 +1,18 @@
+[
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,2,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,4,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,6,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,8,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,10,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,20,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1000,50,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:100,100,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:100,200,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:100,500,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:100,1000,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:10,10000,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:10,20000,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:4,50000,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:2,100000,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1},
+    {"input": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f:1,200000,", "output": "%%e5d2e944-2c61-4159-9def-fa258dc2f64f", "subtask": 1}
+]
