@@ -7,7 +7,7 @@ n = int(inp[0])
 inp = inp[1:]
 while len(inp[-1]) == 0:
     inp = inp[:-1]
-cmd = sys.argv[1:]
+cmd = sys.argv[1].split()
 runner = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, bufsize=1)
 runner.stdin.write(str(len(inp))+"\n")
 if debug:print("Interactor:",str(len(inp)))

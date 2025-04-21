@@ -147,7 +147,7 @@ public class solution {
         if (total > 1) {
             totalFails++;
         }
-        // code battle advanced — 5:12 PM
+        // code battle advanced - 5:12 PM
         // i thought you needed to use up all the queries
         // or it would bork or something
         // while (inputTime < N) {

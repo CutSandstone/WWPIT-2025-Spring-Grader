@@ -3,14 +3,13 @@ import subprocess
 import random
 import os
 def compile(inp: str):
-    print(inp)
     if not os.path.exists("compile/map.json"):
         if not os.path.exists("compile"):
             os.mkdir("compile")
         json.dump({}, open("compile/map.json", "w"))
     mp = json.load(open("compile/map.json"))
     if inp.endswith(".py"):
-        return "python3 " + inp
+        return "python3  " + inp
     txt = open(inp).read()
     if txt not in mp:
         fname = "".join([chr(random.randint(ord('a'), ord('z'))) for i in range(10)])

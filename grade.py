@@ -2,7 +2,6 @@ import subprocess
 import sys
 import os
 import json
-map = json.load(open("Problems/map.json"))
 langs = ['C++11', 'C++17', 'C++20', 'C++23', 'C11', 'PyPy7.3.17', 'Python3.12.3', 'Java8', 'Java11', 'Java17', 'Java21']
 def process_submission(code, lang, problem, tl):
     #code: path to source code
@@ -38,7 +37,7 @@ def process_submission(code, lang, problem, tl):
     for i in os.listdir(f"Problems/{problem}"):
         if i.startswith("interactor"):
             interactor = compileCode(f"Problems/{problem}/{i}")
-        if i.startswith("solution"):
+        if i.startswith("solution") and not i.endswith(".java"):
             solution = compileCode(f"Problems/{problem}/{i}")
         if i.startswith("checker"):
             checker = compileCode(f"Problems/{problem}/{i}")
@@ -52,7 +51,7 @@ def process_submission(code, lang, problem, tl):
             inp = inp.split(",")
             inp = subprocess.run([*generator.split(), *inp], text=True, capture_output=True).stdout
         if interactor == "":
-            real = subprocess.run(solution.split(), text=True, input=inp, capture_output=True).stdout
+            real = subprocess.run(solution.split("  "), text=True, input=inp, capture_output=True).stdout
             try:
                 sub = subprocess.run(code.split(), text=True, input=inp, timeout=tl, capture_output=True).stdout
             except:
@@ -67,7 +66,7 @@ def process_submission(code, lang, problem, tl):
                     f.write(sub)
                 with open("t3.txt", "w") as f:
                     f.write(real)
-                c = subprocess.run([*checker.split(), "t1.txt", "t2.txt", "t3.txt"], text=True, capture_output=True).returncode
+                c = subprocess.run([*checker.split("  "), "t1.txt", "t2.txt", "t3.txt"], text=True, capture_output=True).returncode
                 os.remove("t1.txt")
                 os.remove("t2.txt")
                 os.remove("t3.txt")
@@ -75,11 +74,12 @@ def process_submission(code, lang, problem, tl):
                     return False
         else:
             try:
-                c = subprocess.run([*interactor.split(), code], timeout=tl, capture_output=True, text=True, input=inp).returncode
+                c = subprocess.run([*interactor.split("  "), code], timeout=tl, capture_output=True, text=True, input=inp)
             except:
                 return False
-            if c != 0:
+            if c.returncode != 0:
                 return False
     return True
 if __name__ == '__main__':
-    print(process_submission(sys.argv[1],sys.argv[2], 5))
+    print(process_submission(sys.argv[1],sys.argv[2],sys.argv[3], 5))
+    os.remove("a.out")
