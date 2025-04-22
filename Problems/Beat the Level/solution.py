@@ -1,2 +1,1 @@
-input()
-print("BDEIAET"["S"*4 in input()::2])
+print("BDEIAET"["S"*4 in open(0)::2])
